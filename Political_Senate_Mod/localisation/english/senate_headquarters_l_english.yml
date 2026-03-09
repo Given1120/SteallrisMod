@@ -1,0 +1,10 @@
+﻿l_english:
+ building_senate_headquarters:0 "Senate Headquarters"
+ building_senate_headquarters_desc:0 "The central legislative body of the empire, where elected Senators convene to debate and vote on matters of domestic governance, foreign policy, and the future direction of the republic."
+ job_senator:0 "Senator"
+ job_senator_plural:0 "Senators"
+ job_job_senator:0 "Senator"
+ job_job_senator_plural:0 "Senators"
+ job_job_senator_desc:0 "An elected representative serving in the planetary senate, producing unity and influence for the empire."
+ job_senator_effect_desc:0 "Senators are Ruler stratum jobs."
+ mod_job_job_senator_add:0 "Senator Jobs"
