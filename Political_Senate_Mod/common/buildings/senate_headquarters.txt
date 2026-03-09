@@ -20,15 +20,10 @@ building_senate_headquarters = {
     }
 
     potential = {
-        custom_tooltip = {
-            text = EMPIRE_UNIQUE_BUILDING
-            owner = {
-                NOT = { has_country_flag = built_senate_headquarters }
-            }
-        }
         owner = {
             has_authority = auth_democratic
             NOT = { has_ethic = ethic_gestalt_consciousness }
+            NOT = { has_country_flag = built_senate_headquarters }
         }
         NOT = { has_modifier = slave_colony }
     }
@@ -50,7 +45,7 @@ building_senate_headquarters = {
             exists = owner
         }
         modifier = {
-            job_job_senator_add = 3
+            job_senator_add = 3
             planet_stability_add = 10
         }
     }

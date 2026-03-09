@@ -7,4 +7,4 @@
  job_job_senator_plural:0 "Senators"
  job_job_senator_desc:0 "An elected representative serving in the planetary senate, producing unity and influence for the empire."
  job_senator_effect_desc:0 "Senators are Ruler stratum jobs."
- mod_job_job_senator_add:0 "Senator Jobs"
+ mod_job_senator_add:0 "Senator Jobs"
