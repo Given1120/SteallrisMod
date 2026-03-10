@@ -1,15 +1,6 @@
 job_senator = {
     category = ruler
 
-    # Hides job entirely from non-democratic empires
-    potential = {
-        exists = owner
-        owner = {
-            is_regular_empire = yes
-            has_authority = auth_democratic
-        }
-    }
-
     # Conditions for a pop to actually work the job
     possible = {
         is_sapient = yes

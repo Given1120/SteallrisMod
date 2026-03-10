@@ -4,10 +4,6 @@ building_senate_headquarters = {
     base_buildtime = 360
     base_cap_amount = 1
 
-    building_sets = {
-        government_buildings
-    }
-
     resources = {
         category = government_buildings
         cost = {
